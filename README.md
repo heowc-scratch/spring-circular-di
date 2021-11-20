@@ -30,3 +30,5 @@ Relying upon circular references is discouraged and they are prohibited by defau
 
 Process finished with exit code 1
 ```
+
+See https://github.com/spring-projects/spring-framework/issues/25443
